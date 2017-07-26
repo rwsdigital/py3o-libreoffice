@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t xcgd/libreoffice-server .
+docker build -t rwsdigital/libreoffice-server .
